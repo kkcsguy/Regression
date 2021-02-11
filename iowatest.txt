@@ -1,0 +1,134 @@
+School	Poverty	Test	City
+Coralville	20	65	Iowa City
+Hills	42	35	Iowa City
+Hoover	10	84	Iowa City
+Horn	5	83	Iowa City
+Kirkwood	34	49	Iowa City
+Lemme	17	69	Iowa City
+Lincoln	3	88	Iowa City
+Longfel	24	63	Iowa City
+Lucas	21	65	Iowa City
+Mann	34	58	Iowa City
+Penn	24	52	Iowa City
+Roosev	35	61	Iowa City
+Shimek	4	81	Iowa City
+Twain	57	43	Iowa City
+Weber	24	66	Iowa City
+Wickham	10	62	Iowa City
+Wood	31	65	Iowa City
+Black Hk	35	46	Waterloo
+Edison	62	41	Waterloo
+Elk Run	56	48	Waterloo
+Grant	81	36	Waterloo
+Irving	45	52	Waterloo
+Jewett	50	44	Waterloo
+Kingsley	15	76	Waterloo
+Kittrell	40	48	Waterloo
+Lincoln	74	30	Waterloo
+Longfel	99	27	Waterloo
+Lowell	82	28	Waterloo
+McKinst	81	20	Waterloo
+Orange	38	56	Waterloo
+Roose	80	23	Waterloo
+Arthur	13	75	Cedar Rapids
+Cleveland	27	55	Cedar Rapids
+Coolidge	10	72	Cedar Rapids
+Erskine	25	67	Cedar Rapids
+Garfield	39	46	Cedar Rapids
+Grant W	44	55	Cedar Rapids
+Harrison	55	35	Cedar Rapids
+Hiawatha	27	56	Cedar Rapids
+Hoover	30	66	Cedar Rapids
+Jackson	7	69	Cedar Rapids
+Johnson	59	51	Cedar Rapids
+Kenwood	41	75	Cedar Rapids
+Madison	16	70	Cedar Rapids
+Nixon	21	62	Cedar Rapids
+Pierce	3	75	Cedar Rapids
+Polk	80	54	Cedar Rapids
+Taylor	78	36	Cedar Rapids
+Truman	10	57	Cedar Rapids
+Van Bur	52	43	Cedar Rapids
+Wilson	39	41	Cedar Rapids
+Wright	27	53	Cedar Rapids
+Adams	17	52	Davenport
+Blue Gra	9	53	Davenport
+Buchan	57	37	Davenport
+Buffalo	31	43	Davenport
+Eisen	40	58	Davenport
+Fillmore	57	39	Davenport
+Garfield	49	43	Davenport
+Grant	38	47	Davenport
+Harrison	22	56	Davenport
+Hayes	61	30	Davenport
+Jackson	58	34	Davenport
+Jefferson	89	21	Davenport
+Johnson	53	40	Davenport
+Lincoln	59	56	Davenport
+Madison	87	29	Davenport
+McKinley	50	49	Davenport
+Monroe	73	36	Davenport
+Perry	51	20	Davenport
+Truman	40	48	Davenport
+Walcott	23	59	Davenport
+Wash	71	38	Davenport
+Wilson	39	53	Davenport
+Adams	50	58	Des Moines
+Brooks	79	32	Des Moines
+Cattell	49	50	Des Moines
+Douglas	37	54	Des Moines
+Edmunds	77	28	Des Moines
+Findley	61	51	Des Moines
+Garton	55	27	Des Moines
+Granger	47	49	Des Moines
+Greenwd	32	67	Des Moines
+Hanawalt	12	79	Des Moines
+Hills	31	57	Des Moines
+Howe	50	50	Des Moines
+Hubbell	22	81	Des Moines
+Jackson	40	45	Des Moines
+Jefferson	3	74	Des Moines
+Longfel	80	50	Des Moines
+Lovejoy	62	40	Des Moines
+Madison	52	45	Des Moines
+Mann	65	32	Des Moines
+McKee	57	31	Des Moines
+McKinley	78	36	Des Moines
+Mitchell	54	46	Des Moines
+Monroe	45	53	Des Moines
+Moore	40	53	Des Moines
+Moulton	83	30	Des Moines
+Oak Park	52	49	Des Moines
+Park Ave	42	36	Des Moines
+Perkins	65	51	Des Moines
+Phillips	29	61	Des Moines
+Pleasant	17	68	Des Moines
+Stowe	53	47	Des Moines
+Stud	25	53	Des Moines
+Wallace	77	24	Des Moines
+Watrous	39	47	Des Moines
+Willard	84	42	Des Moines
+Windsor	32	62	Des Moines
+Wood	35	59	Des Moines
+Wright	28	60	Des Moines
+Bryant	32	56	Sioux City
+Clark	4	78	Sioux City
+Crescent	49	65	Sioux City
+Emerson	53	40	Sioux City
+Everett	79	48	Sioux City
+Grant	50	45	Sioux City
+Hunt	72	43	Sioux City
+Irving	86	27	Sioux City
+Joy	33	65	Sioux City
+Leeds	46	42	Sioux City
+Lincoln	14	76	Sioux City
+Longfel	34	40	Sioux City
+Lowell	54	57	Sioux City
+McKinley	84	37	Sioux City
+Nodland	10	74	Sioux City
+Riverview	60	59	Sioux City
+Roosev	48	50	Sioux City
+Smith	72	39	Sioux City
+Sunnysd	14	73	Sioux City
+Wash	20	57	Sioux City
+Whittier	39	48	Sioux City
